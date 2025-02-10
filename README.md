@@ -1,4 +1,4 @@
-# Predicitive-Analysis-of-Chichago-Traffic-Crashes: Crash Types and Damage Estimation  
+# Predicitive-Analysis-of-Chicago-Traffic-Crashes: Crash Types and Damage Estimation  
 
 This project focuses on analyzing traffic crashes in Chicago to predict crash types, estimate damage severity, and identify risk factors contributing to severe accidents. The study utilized advanced data analytics, machine learning techniques, distributed computing with Apache Spark, and a user-friendly web interface to uncover insights that can enhance urban traffic safety management.  
 
